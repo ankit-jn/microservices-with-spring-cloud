@@ -1,6 +1,6 @@
-# ARJ-Stack: Microservices with Spring Cloud
----
-## Udemy Course
+## ARJ-Stack: Microservices with Spring Cloud
+
+#### Udemy Course
 
 [Microservices with Spring Cloud](https://www.udemy.com/course/microservices-architecture-with-spring-cloud/)
 
@@ -8,8 +8,8 @@ This course is designed for the Java/Spring developer who want to gain hands-on 
 
 You will gain skills which will give you confidence to be a part of team working on new solution development or the migration of existing monolithic applications to cloud based solution with Microservice architecture style.
 
-## Coverage
-
+#### Coverage
+---
 - Implemtation of Rest Services with SpringBoot
     - Currency Conversion Service
     - Flight Schedule Service
