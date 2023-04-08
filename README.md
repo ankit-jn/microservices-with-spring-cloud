@@ -47,4 +47,4 @@ You will gain skills which will give you confidence to be a part of team working
 
 ## Authors
 
-Module is maintained by [Ankit Jain](https://github.com/ankit-jn) with help from [these professional](https://github.com/arjstack/microservices-with-spring-cloud/graphs/contributors).
+Module is maintained by [Ankit Jain](https://github.com/ankit-jn) with help from [these professional](https://github.com/ankit-jn/microservices-with-spring-cloud/graphs/contributors).
